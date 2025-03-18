@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como um **treinamento prático de JavaScript**, implementando um **carrossel automático** que exibe **feedbacks de clientes**. O carrossel roda automaticamente, permite navegação manual e pausa quando o usuário passa o mouse sobre ele.
 
 ## 🌍 Acesse o Projeto
-🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/TreinamentoToDoList/)
+🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/treinamentoCarrossel/)
 
 ## 📌 Funcionalidades
 
