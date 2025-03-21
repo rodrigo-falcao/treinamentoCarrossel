@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         updateCarousel();
     });
-
+    
     function updateCarousel() {
         const offset = -currentIndex * cardWidth; 
         carousel.style.transform = `translateX(${offset}px)`;
