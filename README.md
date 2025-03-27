@@ -29,21 +29,6 @@ Este projeto foi desenvolvido como um **treinamento prático de JavaScript**, im
  ├── 📄 script.js   # Lógica do carrossel<br/>
 ```
 
-## 🚀 Como Executar
-
-1️⃣ **Clone o repositório**
-```sh
-git clone https://github.com/seu-usuario/projeto-carrossel.git
-```
-
-2️⃣ **Abra o arquivo `index.html` no navegador**
-
-3️⃣ **Teste o carrossel**:
-   - O carrossel **roda automaticamente**
-   - Clique nos botões para **navegar manualmente**
-   - Passe o mouse sobre o carrossel para **pausar**
-
-
 ## 📌 Melhorias Futuras
 
 - [ ] Tornar o carrossel **infinito**, sem resetar para o início.
@@ -52,6 +37,7 @@ git clone https://github.com/seu-usuario/projeto-carrossel.git
 
 🔹 **Projeto criado para aprendizado e prática!** 🚀 Sinta-se à vontade para contribuir ou sugerir melhorias. 😊
 
+## 📸Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ea05a292-763e-4e1a-906e-3da2761fa39b" alt="Screenshot do projeto">
 </p>
